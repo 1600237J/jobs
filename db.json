@@ -1,8 +1,17 @@
 {"jobs":[
    
-   { "id": "1", "title": "Post 1", "jobType": "Full-time", "jobFunction": "Accounting", "salary": "$1000.00"},
-    { "id": "2", "title": "Post 2", "jobType": "Part-time", "jobFunction": "Beauty", "salary": "$2000.00" },
-    { "id": "3", "title": "Post 3", "jobType": "Internship", "jobFunction": "Cleaning", "salary": "$1500.00" }
+   { "id": "1", "title": "Part-time Job 1", "jobType": "Part-time", "jobFunction": "Dog Trainer", "salary": "$8/h", "duration":"1month" },
+    { "id": "2", "title": "Part-time Job 2 ", "jobType": "Part-time", "jobFunction": "Skincare Promoter", "salary": "$9/h", "duration": "2months"},
+   
+  { "id": "3", "title": "Full-time Job 1", "jobType": "Full-time", "jobFunction": "Museum TourGuide", "salary": "$2100.00", "duration":"6month" },
+    { "id": "4", "title": "Full-time Job 2 ", "jobType": "Full-time", "jobFunction": "Beach LifeGuard", "salary": "$2000.00", "duration": "6months"},
+   
+   { "id": "5", "title": "Internship Job 1", "jobType": "Internship", "jobFunction": "Architect", "salary": "$3000.00", "duration":"7month" },
+    { "id": "6", "title": "Internship Job 2 ", "jobType": "Internship", "jobFunction": "Data Entry", "salary": "$2000.00", "duration": "8months"},
+   
+   { "id": "7", "title": "Contrat Job 1", "jobType": "Contract", "jobFunction": "Clerk", "salary": "$2000.00", "duration":"3month" },
+    { "id": "8", "title": "Contract Job 2 ", "jobType": "Contract", "jobFunction": "Customer Service Officer", "salary": "$2500.00", "duration": "4months"}
+   
   
   ]
  
