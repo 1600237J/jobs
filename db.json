@@ -1,6 +1,6 @@
 {"jobs":[
    
-   { "id": "1", "title": "Part-time Job 1", "jobType": "Part-time", "jobFunction": "Dog Trainer", "salary": "$8/h", "duration":"1month", "img": <img src="https://www.dentistfriend.com//uploads/praxisimages/dental-jobs-opp.png"> },
+   { "id": "1", "title": "Part-time Job 1", "jobType": "Part-time", "jobFunction": "Dog Trainer", "salary": "$8/h", "duration":"1month", "img": <img src="https://www.dentistfriend.com//uploads/praxisimages/dental-jobs-opp.png"/> },
     { "id": "2", "title": "Part-time Job 2 ", "jobType": "Part-time", "jobFunction": "Skincare Promoter", "salary": "$9/h", "duration": "2months"},
    
   { "id": "3", "title": "Full-time Job 1", "jobType": "Full-time", "jobFunction": "Museum TourGuide", "salary": "$2100.00", "duration":"6month" },
